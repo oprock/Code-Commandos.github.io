@@ -7,5 +7,6 @@ Duty Roster 1.0 is an automated military-based scheduling system which has been 
   
 Download [RC1](https://github.com/SCCapstone/Code-Commandos/releases/download/v1.20/DutyRoster.1.0.zip) to start your schedualing needs.  
 This release comes with built-in instructions.
-Extract the zips files, and then open the DutyRoster1.jar
-
+Extract the zips files, and then open the DutyRoster1.jar  
+  
+Contributors: Austin Freed, Mike Harlow, Harini Karnati, Tanya Peyush and Othen Prock
