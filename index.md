@@ -16,7 +16,7 @@ Example duty roster print out.
 ![memo](https://user-images.githubusercontent.com/31378383/39225691-be0659a8-481b-11e8-9a8f-ea89200c5409.png)
 Example memorandum print out.
 ### Video    
-https://youtu.be/_cjOmEzI4Kk  
+![video](https://youtu.be/_cjOmEzI4Kk)  
   
 Download [RC1](https://github.com/SCCapstone/Code-Commandos/releases/download/v1.20/DutyRoster.1.0.zip) to start your schedualing needs.  
 This release comes with built-in instructions.
