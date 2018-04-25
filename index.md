@@ -1,3 +1,10 @@
+### Code Commandos
+# Duty Roster 1.0
+Download [RC1](https://github.com/SCCapstone/Code-Commandos/releases/download/v1.20/DutyRoster.1.0.zip) to start your schedualing needs.
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/oprock/Code-Commandos.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
