@@ -1,6 +1,6 @@
 ## Code Commandos
 # Duty Roster 1.0
-![duty](https://github.com/SCCapstone/Code-Commandos/blob/master/DutyRoster1/src/dutyroster/DurtRoster1.jpg)  
+![duty](https://user-images.githubusercontent.com/31378383/39227090-af65c3b2-4824-11e8-9ec5-3eac3232329f.png)  
 Welcome to the Duty Roster 1.0 Demo!  
 
 Duty Roster 1.0 is an automated military-based scheduling system which has been adapted for public use. This is a basic implementation of a desktop app using JavaFX and NetBeans IDE.    
