@@ -9,7 +9,7 @@ Duty Roster 1.0 is an automated military-based scheduling system which has been 
 With our setup wizard, getting started and familiar to our program is a breeze.  
 ### Familiar look, more functionality  
 ![rosters](https://user-images.githubusercontent.com/31378383/39225684-b6bbda6a-481b-11e8-9726-cdbc769ede31.png)  
-Our main page looks similar to the original roster forms currently used by the military. When useing our software you have the ability to create as many rosters as you want and assign employees to the roster independently. If there is a conflict between the rosters then the program automaticaly adjustes the lower priority roster.  
+Our main page looks similar to the original roster forms currently used by the military. When using our software you have the ability to create as many rosters as you want and assign employees to the roster independently. If there is a conflict between the rosters then the program automatically adjusts the lower priority roster.  
 ### Printable forms  
 ![rosterp](https://user-images.githubusercontent.com/31378383/39225688-bb355530-481b-11e8-918c-7269c4433a51.png)  
 Example duty roster print out.
