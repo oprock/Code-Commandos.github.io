@@ -18,7 +18,7 @@ Example memorandum print out.
 ### Video      
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZWiY7rsw_vU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
 ## Download
-[Duty Roster 1](https://github.com/oprock/Code-Commandos.github.io/releases/download/RC2/DutyRoster1.zip)
+[Duty Roster 1](https://github.com/oprock/Code-Commandos.github.io/files/1962954/DutyRoster1.zip)
 Extract the zips files, and then open the DutyRoster1.jar  
   
 Contributors: Austin Freed, Mike Harlow, Harini Karnati, Tanya Peyush and Othen Prock
